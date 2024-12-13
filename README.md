@@ -53,5 +53,14 @@ Here are these columns:
 - ```hollows_ratio```
 
 
+## File attached
+- vehicle.csv
+
+## Link to Workbook
+- [Open in Google Colab](https://colab.research.google.com/drive/1QqJKEuS9FyV0GaK_WjakICu3TW-0BfN9?usp=sharing)
+
+
+
+
 
 
